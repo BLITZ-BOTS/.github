@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://discord.gg/yk7tkNQSrv">
-    <img src="./assets/blitz_long_icon.png" alt="Blitz Icon"/>
+    <img src="https://assets.blitz-bots.com/blitz_long_icon.png" alt="Blitz Icon"/>
   </a>
 </div>
 
@@ -22,7 +22,7 @@ To learn more about plugins and how they enhance your bots, visit our [Plugins F
 ---
 
 <div align="center">  
-  <img src="./assets/powered_by.png">
+  <img src="https://assets.blitz-bots.com/powered_by.png">
 </div> 
 
 ---
