@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://discord.gg/yk7tkNQSrv">
+  <a href="https://discord.blitz-bots.com">
     <img src="https://assets.blitz-bots.com/blitz_long_icon.png" alt="Blitz Icon"/>
   </a>
 </div>
